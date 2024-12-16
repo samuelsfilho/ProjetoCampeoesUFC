@@ -8,7 +8,7 @@
 <body>
     <main>
         <div>
-            <img src="./imagens/UFC.jpg" alt="Lutador de MMA">
+            <img src="./src/imagens/UFC.jpg" alt="Lutador de MMA">
         </div>
     </main>
 </body>
